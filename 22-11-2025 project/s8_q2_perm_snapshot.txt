@@ -1,0 +1,3 @@
+hostname:Linux
+username:vboxuser
+-rwxrwxrwx 1 vboxuser ramesh 99 Nov 22 01:19 shell.sh
